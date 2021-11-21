@@ -1,0 +1,50 @@
+{
+    "seeds":[
+        {
+            "id":0,
+            "name":"Paddy",
+            "variant":"Aduthurai",
+            "availability":"50Kg",
+            "Available place":"Trichy Agri office",
+            "Number":"04327-233849",
+            "Available dates":"27/11/2021-30/11/2021"
+        },
+        {
+            "id":1,
+            "name":"Paddy",
+            "variant":"Vani",
+            "availability":"100Kg",
+            "Available place":"Vellore Agri office",
+            "Number":"04321-233849",
+            "Available dates":"2/12/2021-10/12/2021"
+        },
+        {
+            "id":2,
+            "name":"Paddy",
+            "variant":"Purna",
+            "availability":"10Kg",
+            "Available place":"Thuraiyur Agri office",
+            "Number":"04327-233850",
+            "Available dates":"2/12/2021-10/11/2021"
+        },
+        {
+            "id":3,
+            "name":"Wheat",
+            "variant":"VL-832",
+            "availability":"100Kg",
+            "Available place":"Vellore Agri office",
+            "Number":"04321-233849",
+            "Available dates":"22/12/2021-20/12/2021"
+        },
+        {
+            "id":4,
+            "name":"Wheat",
+            "variant":"VL-804",
+            "availability":"100Kg",
+            "Available place":"Trichy Agri office",
+            "Number":"04327-233849",
+            "Available dates":"22/12/2021-20/12/2021"
+        }
+        
+    ]
+}
